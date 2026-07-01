@@ -1,0 +1,6 @@
+{
+  "name": "morphen-ehunt-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Morphen Suite icin EHunt API proxy - Vercel serverless function"
+}
